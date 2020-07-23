@@ -1,5 +1,5 @@
 # Welcome to Studio204
-!(markdown_logo)(https://drive.google.com/file/d/1nGqpe7WQT1tXQAfoNGPRWphmywUmOGvW/view?usp=sharing)
+![appicon](https://drive.google.com/file/d/1nGqpe7WQT1tXQAfoNGPRWphmywUmOGvW/view?usp=sharing)
 # Project-1
 ## Description
 ## How It Works
