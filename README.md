@@ -1,5 +1,5 @@
 # Welcome to Studio204
-![logo](http://studio204.co.kr/images/logo.png)
+![logo](http://studio204.co.kr/images/appicon.png)
 ## Description
 ## How It Works
 ## Contact
