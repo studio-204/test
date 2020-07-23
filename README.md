@@ -1,5 +1,5 @@
 # Welcome to Studio204
-![logo](https://drive.google.com/file/d/1rMM5iqvH6va4EgMdWH27nuBpe-WR-OIt/view?usp=sharing)
+![logo](https://studio204.co.kr/images/logo_new.png)
 ## Description
 ## How It Works
 ## Contact
